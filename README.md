@@ -25,6 +25,6 @@ Make sure you have installed:
 ## 🏃 Quick Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Bm3045/-secure-auth-system/tree/main
 cd auth-system
 docker-compose up -d --build
